@@ -1,0 +1,1 @@
+* * * * * root /datatang_example/spider.py -t {{TIMEOUT}} >> /var/log/spider.log 2>&1
